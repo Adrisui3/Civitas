@@ -10,4 +10,4 @@ Java version includes a graphical user interface, while Ruby version only has a 
 There isn't much documentation as it belongs to University of Granada I think.
 Everything is coded in Spanish, but I can translate it if requested.
 
-For further information just let me now: admartnav@gmail.com
+For further information, just let me now: admartnav@gmail.com
